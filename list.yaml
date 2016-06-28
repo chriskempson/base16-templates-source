@@ -1,4 +1,4 @@
-html-preview: https://github.com/chriskempson/base16-html-preview.git
-shell: https://github.com/chriskempson/base16-shell.git
-textmate: https://github.com/chriskempson/base16-textmate.git
-vim: https://github.com/chriskempson/base16-vim.git
+html-preview: https://github.com/chriskempson/base16-html-preview
+shell: https://github.com/chriskempson/base16-shell
+textmate: https://github.com/chriskempson/base16-textmate
+vim: https://github.com/chriskempson/base16-vim
