@@ -1,6 +1,7 @@
 emacs: https://github.com/belak/base16-emacs
 html-preview: https://github.com/chriskempson/base16-html-preview
 mintty: https://github.com/iamthad/base16-mintty
+qtcreator: https://github.com/ilpianista/base16-qtcreator
 shell: https://github.com/chriskempson/base16-shell
 textmate: https://github.com/chriskempson/base16-textmate
 vim: https://github.com/chriskempson/base16-vim
