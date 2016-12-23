@@ -1,3 +1,4 @@
+crosh: https://github.com/philj56/base16-crosh
 dunst: https://github.com/khamer/base16-dunst
 emacs: https://github.com/belak/base16-emacs
 highlight: https://github.com/bezhermoso/base16-highlight
@@ -16,3 +17,5 @@ xfce4-terminal: https://github.com/afg984/base16-xfce4-terminal
 xresources: https://github.com/chriskempson/base16-xresources
 monodevelop: https://github.com/netpyoung/base16-monodevelop
 gnome-terminal: https://github.com/aaron-williamson/base16-gnome-terminal
+kakoune: https://github.com/leira/base16-kakoune
+c_header: https://github.com/m1sports20/base16-c_header
