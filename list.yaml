@@ -15,6 +15,7 @@ prism: https://github.com/atelierbram/base16-prism
 putty: https://github.com/abravalheri/base16-putty
 qtcreator: https://github.com/ilpianista/base16-qtcreator
 shell: https://github.com/chriskempson/base16-shell
+st: https://github.com/honza/base16-st
 termite: https://github.com/khamer/base16-termite
 textmate: https://github.com/chriskempson/base16-textmate
 vim: https://github.com/chriskempson/base16-vim
