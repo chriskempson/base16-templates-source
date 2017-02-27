@@ -18,6 +18,7 @@ putty: https://github.com/abravalheri/base16-putty
 qtcreator: https://github.com/ilpianista/base16-qtcreator
 rofi: https://github.com/0xdec/base16-rofi
 shell: https://github.com/chriskempson/base16-shell
+st: https://github.com/honza/base16-st
 termite: https://github.com/khamer/base16-termite
 textmate: https://github.com/chriskempson/base16-textmate
 vim: https://github.com/chriskempson/base16-vim
