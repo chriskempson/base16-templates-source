@@ -14,6 +14,7 @@ konsole: https://github.com/cskeeters/base16-konsole
 mintty: https://github.com/iamthad/base16-mintty
 monodevelop: https://github.com/netpyoung/base16-monodevelop
 prism: https://github.com/atelierbram/base16-prism
+prompt-toolkit: https://github.com/memeplex/base16-prompt-toolkit
 putty: https://github.com/abravalheri/base16-putty
 qtcreator: https://github.com/ilpianista/base16-qtcreator
 rofi: https://github.com/0xdec/base16-rofi
