@@ -4,6 +4,7 @@ c_header: https://github.com/m1sports20/base16-c_header
 crosh: https://github.com/philj56/base16-crosh
 dunst: https://github.com/khamer/base16-dunst
 emacs: https://github.com/belak/base16-emacs
+fzf: https://github.com/nicodebo/base16-fzf
 gnome-terminal: https://github.com/aaron-williamson/base16-gnome-terminal
 gtk2: https://github.com/dawikur/base16-gtk2
 highlight: https://github.com/bezhermoso/base16-highlight
