@@ -3,6 +3,7 @@ alacritty: https://github.com/aaron-williamson/base16-alacritty
 blink: https://github.com/niklaas/base16-blink.git
 bbedit: https://github.com/hrbn/base16-bbedit
 c_header: https://github.com/m1sports20/base16-c_header
+conemu: https://github.com/martinlindhe/base16-conemu 
 crosh: https://github.com/philj56/base16-crosh
 dunst: https://github.com/khamer/base16-dunst
 emacs: https://github.com/belak/base16-emacs
