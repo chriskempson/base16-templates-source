@@ -8,6 +8,7 @@ conemu: https://github.com/martinlindhe/base16-conemu
 crosh: https://github.com/philj56/base16-crosh
 dunst: https://github.com/khamer/base16-dunst
 emacs: https://github.com/belak/base16-emacs
+firefox: https://github.com/grmat/base16-firefox
 fzf: https://github.com/nicodebo/base16-fzf
 gnome-terminal: https://github.com/aaron-williamson/base16-gnome-terminal
 gtk2: https://github.com/dawikur/base16-gtk2
