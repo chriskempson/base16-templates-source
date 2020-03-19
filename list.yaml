@@ -8,6 +8,7 @@ conemu: https://github.com/martinlindhe/base16-conemu
 console2: https://github.com/AFulgens/base16-console2
 consolez: https://github.com/AFulgens/base16-consolez
 crosh: https://github.com/philj56/base16-crosh
+dwm: https://github.com/dgmulf/base16-dwm
 dunst: https://github.com/khamer/base16-dunst
 emacs: https://github.com/belak/base16-emacs
 fzf: https://github.com/nicodebo/base16-fzf
@@ -41,7 +42,7 @@ qutebrowser: https://github.com/theova/base16-qutebrowser
 rofi: https://gitlab.com/0xdec/base16-rofi
 scide: https://github.com/brunoro/base16-scide
 shell: https://github.com/chriskempson/base16-shell
-st: https://github.com/honza/base16-st
+st: https://github.com/dgmulf/base16-st
 stumpwm: https://github.com/tpine/base16-stumpwm
 styles: https://github.com/samme/base16-styles
 sway: https://github.com/rkubosz/base16-sway
