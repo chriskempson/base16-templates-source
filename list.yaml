@@ -52,6 +52,7 @@ termux: https://github.com/kdrag0n/base16-termux
 textmate: https://github.com/chriskempson/base16-textmate
 tilix: https://github.com/karlding/base16-tilix
 tmux: https://github.com/mattdavis90/base16-tmux
+vim-airline-themes: https://github.com/dawikur/base16-vim-airline-themes
 vim: https://github.com/chriskempson/base16-vim
 vis: https://github.com/pshevtsov/base16-vis
 vscode: https://github.com/golf1052/base16-vscode
