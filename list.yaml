@@ -1,4 +1,5 @@
 # Please order list alphanumerically
+kitty: https://github.com/kdrag0n/base16-kitty
 alacritty: https://github.com/aaron-williamson/base16-alacritty
 binary-ninja: https://github.com/evanrichter/base16-binary-ninja
 blink: https://github.com/niklaas/base16-blink.git
@@ -8,8 +9,9 @@ conemu: https://github.com/martinlindhe/base16-conemu
 console2: https://github.com/AFulgens/base16-console2
 consolez: https://github.com/AFulgens/base16-consolez
 crosh: https://github.com/philj56/base16-crosh
-dwm: https://github.com/dgmulf/base16-dwm
+doom: https://github.com/MArpogaus/base16-doom
 dunst: https://github.com/khamer/base16-dunst
+dwm: https://github.com/dgmulf/base16-dwm
 emacs: https://github.com/belak/base16-emacs
 everything: https://github.com/spitfire05/base16-everything
 fzf: https://github.com/fnune/base16-fzf
@@ -22,13 +24,12 @@ highlight: https://github.com/bezhermoso/base16-highlight
 html-preview: https://github.com/chriskempson/base16-html-preview
 hugo: https://github.com/yawpitch/base16-hugo
 i3: https://github.com/khamer/base16-i3
-i3status: https://github.com/Eluminae/base16-i3status
 i3status-rust: https://github.com/mystfox/base16-i3status-rust
+i3status: https://github.com/Eluminae/base16-i3status
 iterm2: https://github.com/martinlindhe/base16-iterm2
 jetbrains: https://github.com/adilosa/base16-jetbrains
 joe: https://github.com/jjjordan/base16-joe
 kakoune: https://github.com/aprilarcus/base16-kakoune
-kitty: https://github.com/kdrag0n/base16-kitty
 konsole: https://github.com/cskeeters/base16-konsole
 luakit: https://github.com/twnaing/base16-luakit
 mako: https://github.com/Eluminae/base16-mako
@@ -42,7 +43,6 @@ pywal: https://github.com/metalelf0/base16-pywal
 qownnotes: https://github.com/themix-project/base16-template-qOwnNotes
 qtcreator: https://github.com/ilpianista/base16-qtcreator
 qutebrowser: https://github.com/theova/base16-qutebrowser
-#radare2: https://github.com/jtalowell/base16-radare2
 rofi: https://gitlab.com/0xdec/base16-rofi
 scide: https://github.com/brunoro/base16-scide
 shell: https://github.com/chriskempson/base16-shell
@@ -75,3 +75,4 @@ zathura: https://github.com/nicodebo/base16-zathura
 # Disabled until https://gitlab.com/theova/base16-telegram-desktop/issues/1 is
 # resolved.
 # telegram-desktop: https://gitlab.com/theova/base16-telegram-desktop
+#radare2: https://github.com/jtalowell/base16-radare2
