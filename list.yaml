@@ -1,5 +1,5 @@
 # Please order list alphanumerically
-alacritty: https://github.com/aaron-williamson/base16-alacritty
+alacritty: https://github.com/aarowill/base16-alacritty
 binary-ninja: https://github.com/evanrichter/base16-binary-ninja
 blink: https://github.com/niklaas/base16-blink.git
 c_header: https://github.com/m1sports20/base16-c_header
@@ -13,7 +13,7 @@ dunst: https://github.com/khamer/base16-dunst
 emacs: https://github.com/belak/base16-emacs
 everything: https://github.com/spitfire05/base16-everything
 fzf: https://github.com/fnune/base16-fzf
-gnome-terminal: https://github.com/aaron-williamson/base16-gnome-terminal
+gnome-terminal: https://github.com/aarowill/base16-gnome-terminal
 godot: https://github.com/Calinou/base16-godot
 gtk-flatcolor: https://github.com/Misterio77/base16-gtk-flatcolor
 gtk2: https://github.com/dawikur/base16-gtk2
