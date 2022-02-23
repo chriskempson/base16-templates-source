@@ -19,6 +19,7 @@ gnome-terminal: https://github.com/aarowill/base16-gnome-terminal
 godot: https://github.com/Calinou/base16-godot
 gtk-flatcolor: https://github.com/Misterio77/base16-gtk-flatcolor
 gtk2: https://github.com/dawikur/base16-gtk2
+helix: https://github.com/krgn/base16-helix
 hexchat: https://github.com/Diablo-D3/base16-hexchat
 highlight: https://github.com/bezhermoso/base16-highlight
 highlightjs: https://github.com/highlightjs/base16-highlightjs
@@ -67,6 +68,7 @@ vimiv: https://github.com/karlch/base16-vimiv
 vis: https://github.com/pshevtsov/base16-vis
 vscode: https://github.com/golf1052/base16-vscode
 waybar: https://github.com/mnussbaum/base16-waybar
+wezterm: https://github.com/krgn/base16-wezterm
 windows-command-prompt: https://github.com/iamthad/base16-windows-command-prompt
 windows-terminal: https://github.com/wuqs-net/base16-windows-terminal
 wmaker: https://github.com/d-torrance/base16-wmaker
