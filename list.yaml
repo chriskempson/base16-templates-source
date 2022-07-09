@@ -9,6 +9,7 @@ conemu: https://github.com/martinlindhe/base16-conemu
 console2: https://github.com/AFulgens/base16-console2
 consolez: https://github.com/AFulgens/base16-consolez
 crosh: https://github.com/philj56/base16-crosh
+doom: https://github.com/MArpogaus/base16-doom
 dwm: https://github.com/dgmulf/base16-dwm
 dunst: https://github.com/khamer/base16-dunst
 emacs: https://github.com/belak/base16-emacs
@@ -62,6 +63,7 @@ textadept: https://github.com/rgieseke/base16-textadept
 textmate: https://github.com/chriskempson/base16-textmate
 tilix: https://github.com/karlding/base16-tilix
 tmux: https://github.com/mattdavis90/base16-tmux
+tty: https://github.com/MArpogaus/base16-tty
 vim-airline-themes: https://github.com/dawikur/base16-vim-airline-themes
 vim: https://github.com/chriskempson/base16-vim
 vimiv: https://github.com/karlch/base16-vimiv
