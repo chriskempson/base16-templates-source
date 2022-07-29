@@ -83,7 +83,7 @@ wmaker: https://github.com/d-torrance/base16-wmaker
 wofi: https://git.sr.ht/~knezi/base16-wofi
 xcode: https://github.com/kreeger/base16-xcode
 xfce4-terminal: https://github.com/afq984/base16-xfce4-terminal
-xresources: https://github.com/chriskempson/base16-xresources
+xresources: https://github.com/base16-project/base16-xresources
 xshell: https://github.com/h404bi/base16-xshell
 zathura: https://github.com/nicodebo/base16-zathura
 
