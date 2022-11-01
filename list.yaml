@@ -3,6 +3,7 @@ alacritty: https://github.com/aarowill/base16-alacritty
 amfora: https://github.com/jo1gi/base16-amfora
 binary-ninja: https://github.com/evanrichter/base16-binary-ninja
 blink: https://github.com/niklaas/base16-blink.git
+bpytop: https://github.com/dark-beep-boop/base16-bpytop
 c_header: https://github.com/m1sports20/base16-c_header
 concfg: https://github.com/h404bi/base16-concfg
 conemu: https://github.com/martinlindhe/base16-conemu
@@ -62,6 +63,7 @@ st: https://github.com/dgmulf/base16-st
 stumpwm: https://github.com/tpine/base16-stumpwm
 styles: https://github.com/samme/base16-styles
 sway: https://github.com/rkubosz/base16-sway
+swaylock: https://github.com/dark-beep-boop/base16-swaylock
 terminator: https://github.com/Schnouki/base16-terminator
 termite: https://github.com/khamer/base16-termite
 termux: https://github.com/kdrag0n/base16-termux
