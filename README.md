@@ -10,6 +10,7 @@ To add your own template, submit a pull request and add your repository to the l
 * [Amfora](https://github.com/jo1gi/base16-amfora) maintained by [jo1gi](https://github.com/jo1gi)
 * [Binary Ninja](https://github.com/evanrichter/base16-binary-ninja) maintained by [evanrichter](https://github.com/evanrichter)
 * [Blink](https://github.com/niklaas/base16-blink) maintained by [niklaas](https://github.com/niklaas)
+* [Bspwm](https://github.com/EtienneProthon/base16-bspwm) maintained by [EtienneProthon](https://github.com/EtienneProthon)
 * [C Header](https://github.com/m1sports20/base16-c_header) maintained by [m1sports20](https://github.com/m1sports20)
 * [ConCfg](https://github.com/h404bi/base16-concfg) maintained by [h404bi](https://github.com/h404bi)
 * [ConEmu](https://github.com/martinlindhe/base16-conemu) maintained by [martinlindhe](https://github.com/martinlindhe)
