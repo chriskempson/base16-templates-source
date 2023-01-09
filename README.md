@@ -43,6 +43,7 @@ To add your own template, submit a pull request and add your repository to the l
 * [Konsole](https://github.com/cskeeters/base16-konsole) maintained by [cskeeters](https://github.com/cskeeters)
 * [LuaKit](https://github.com/twnaing/base16-luakit) maintained by [twnaing](https://github.com/twnaing)
 * [mako](https://github.com/Eluminae/base16-mako) maintained by [Eluminae](https://github.com/Eluminae)
+* [Micro](https://github.com/kytta/base16-micro) maintained by [kytta](https://github.com/kytta)
 * [MinTTY](https://github.com/geoffstokes/base16-mintty) maintained by [geoffstokes](https://github.com/geoffstokes)
 * [MonoDevelop](https://github.com/netpyoung/base16-monodevelop) maintained by [netpyoung](https://github.com/netpyoung)
 * [Neovim](https://github.com/bradcush/base16-nvim) maintained by [bradcushg](https://github.com/bradcush)
