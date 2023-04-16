@@ -27,6 +27,7 @@ highlight: https://github.com/bezhermoso/base16-highlight
 highlightjs: https://github.com/highlightjs/base16-highlightjs
 html-preview: https://github.com/chriskempson/base16-html-preview
 hugo: https://github.com/yawpitch/base16-hugo
+hyprland: https://github.com/kirasok/base16-hyprland
 i3: https://github.com/khamer/base16-i3
 i3status: https://github.com/Eluminae/base16-i3status
 i3status-rust: https://github.com/mystfox/base16-i3status-rust
@@ -86,7 +87,6 @@ xfce4-terminal: https://github.com/afq984/base16-xfce4-terminal
 xresources: https://github.com/base16-project/base16-xresources
 xshell: https://github.com/h404bi/base16-xshell
 zathura: https://github.com/nicodebo/base16-zathura
-
 # Disabled until https://gitlab.com/theova/base16-telegram-desktop/issues/1 is
 # resolved.
 # telegram-desktop: https://gitlab.com/theova/base16-telegram-desktop

@@ -31,6 +31,7 @@ To add your own template, submit a pull request and add your repository to the l
 * [Highlight](https://github.com/bezhermoso/base16-highlight) maintained by [bezhermoso](https://github.com/bezhermoso)
 * [Highlight.js](https://github.com/highlightjs/base16-highlightjs) maintained by [joshgoebel](https://github.com/joshgoebel)
 * [HTML Previews](https://github.com/chriskempson/base16-html-preview) maintained by [chriskempson](https://github.com/chriskempson)
+* [Hyprland](https://github.com/kirasok/base16-hyprland) maintained by [kirasok](https://github.com/kirasok)
 * [i3](https://github.com/khamer/base16-i3) maintained by [khamer](https://github.com/khamer)
 * [i3status](https://github.com/Eluminae/base16-i3status) maintained by [Eluminae](https://github.com/Eluminae)
 * [i3status-rust](https://github.com/mystfox/base16-i3status-rust) maintained by [mystfox](https://github.com/mystfox)
