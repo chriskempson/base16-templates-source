@@ -82,3 +82,4 @@ To add your own template, submit a pull request and add your repository to the l
 * [Xresources](https://github.com/base16-project/base16-xresources) maintained by [binaryplease](https://github.com/binaryplease)
 * [Xshell](https://github.com/h404bi/base16-xshell) maintained by [h404bi](https://github.com/h404bi)
 * [zathura](https://github.com/HaoZeke/base16-zathura) maintained by [HaoZeke](https://github.com/HaoZeke)
+* [zellij](https://github.com/ralsina/base16-zellij) maintained by [ralsina](https://github.com/ralsina)
