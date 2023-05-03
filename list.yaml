@@ -86,6 +86,7 @@ xfce4-terminal: https://github.com/afq984/base16-xfce4-terminal
 xresources: https://github.com/base16-project/base16-xresources
 xshell: https://github.com/h404bi/base16-xshell
 zathura: https://github.com/nicodebo/base16-zathura
+zellij: https://github.com/ralsina/base16-zellij
 
 # Disabled until https://gitlab.com/theova/base16-telegram-desktop/issues/1 is
 # resolved.
