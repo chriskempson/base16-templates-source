@@ -6,7 +6,7 @@ mkdir -p schemes
 # Read the repository information from the file and clone each repository
 curl -sL https://raw.githubusercontent.com/chriskempson/base16-templates-source/master/list.yaml |
 awk '!/^[[:space:]]*(#|$)/ { 
-  name=$1; 
+  name = substr($1, 1, length($1)-1);
   sub(/^[^ ]+ /, ""); 
   url=$0; 
   system("git clone " url " schemes/" name); 
