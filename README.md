@@ -6,6 +6,7 @@ All templates added to this repository list **must** be released under the MIT (
 
 To add your own template, submit a pull request and add your repository to the list below. **Repository naming scheme: base16-[template-name]** (with dashes as separators).
 
+* [acme2k](https://github.com/japanoise/base16-acme2k) maintained by [japanoise](https://github.com/japanoise).
 * [Alacritty](https://github.com/aarowill/base16-alacritty) maintained by [aarowill](https://github.com/aarowill)
 * [Amfora](https://github.com/jo1gi/base16-amfora) maintained by [jo1gi](https://github.com/jo1gi)
 * [Binary Ninja](https://github.com/evanrichter/base16-binary-ninja) maintained by [evanrichter](https://github.com/evanrichter)
