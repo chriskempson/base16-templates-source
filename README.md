@@ -47,6 +47,7 @@ To add your own template, submit a pull request and add your repository to the l
 * [MonoDevelop](https://github.com/netpyoung/base16-monodevelop) maintained by [netpyoung](https://github.com/netpyoung)
 * [Neovim](https://github.com/bradcush/base16-nvim) maintained by [bradcushg](https://github.com/bradcush)
 * [Neovim](https://github.com/wincent/base16-nvim) maintained by [wincent](https://github.com/wincent)
+* [Neovim](https://github.com/RRethy/base16-nvim) maintained by [RRethy](https://github.com/RRethy)
 * [Polybar](https://github.com/Misterio77/base16-polybar) maintained by [Misterio77](https://github.com/Misterio77)
 * [Prism](https://github.com/atelierbram/base16-prism) maintained by [atelierbram](https://github.com/atelierbram)
 * [prompt-toolkit & ipython](https://github.com/memeplex/base16-prompt-toolkit) maintained by [memeplex](https://github.com/memeplex)
