@@ -61,6 +61,7 @@ To add your own template, submit a pull request and add your repository to the l
 * [st](https://github.com/honza/base16-st) maintained by [honza](https://github.com/honza)
 * [StumpWM](https://github.com/tpine/base16-stumpwm) maintained by [tpine](https://github.com/tpine)
 * [Sway](https://github.com/rkubosz/base16-sway) maintained by [rkubosz](https://github.com/rkubosz)
+* [Swaylock](https://github.com/dark-beep-boop/base16-swaylock) maintained by [dark-beep-boop](https://github.com/dark-beep-boop)
 * [TTY](https://github.com/MArpogaus/base16-tty) maintained by [MArpogaus](https://github.com/MArpogaus)
 * [Termite](https://github.com/khamer/base16-termite) maintained by [khamer](https://github.com/khamer)
 * [Termux](https://github.com/kdrag0n/base16-termux) maintained by [kdrag0n](https://github.com/kdrag0n)
