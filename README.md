@@ -29,6 +29,7 @@ To add your own template, submit a pull request and add your repository to the l
 * [Godot](https://github.com/Calinou/base16-godot) maintained by [Calinou](https://github.com/Calinou)
 * [GTK+ FlatColor](https://github.com/Misterio77/base16-gtk-flatcolor) maintained by [Misterio77](https://github.com/Misterio77/)
 * [GTK+2](https://github.com/dawikur/base16-gtk2) maintained by [dawikur](https://github.com/dawikur)
+* [Halloy](https://github.com/4e554c4c/base16-halloy) maintained by [4e554c4c](https://github.com/4e554c4c)
 * [HexChat](https://github.com/Diablo-D3/base16-hexchat) maintained by [Diablo-D3](https://github.com/Diablo-D3)
 * [Highlight](https://github.com/bezhermoso/base16-highlight) maintained by [bezhermoso](https://github.com/bezhermoso)
 * [Highlight.js](https://github.com/highlightjs/base16-highlightjs) maintained by [joshgoebel](https://github.com/joshgoebel)
