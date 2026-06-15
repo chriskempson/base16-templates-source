@@ -6,10 +6,12 @@ All templates added to this repository list **must** be released under the MIT (
 
 To add your own template, submit a pull request and add your repository to the list below. **Repository naming scheme: base16-[template-name]** (with dashes as separators).
 
+* [acme2k](https://github.com/japanoise/base16-acme2k) maintained by [japanoise](https://github.com/japanoise).
 * [Alacritty](https://github.com/aarowill/base16-alacritty) maintained by [aarowill](https://github.com/aarowill)
 * [Amfora](https://github.com/jo1gi/base16-amfora) maintained by [jo1gi](https://github.com/jo1gi)
 * [Binary Ninja](https://github.com/evanrichter/base16-binary-ninja) maintained by [evanrichter](https://github.com/evanrichter)
 * [Blink](https://github.com/niklaas/base16-blink) maintained by [niklaas](https://github.com/niklaas)
+* [BpyTop](https://github.com/dark-beep-boop/base16-bpytop) maintained by [dark-beep-boop](https://github.com/dark-beep-boop)
 * [C Header](https://github.com/m1sports20/base16-c_header) maintained by [m1sports20](https://github.com/m1sports20)
 * [ConCfg](https://github.com/h404bi/base16-concfg) maintained by [h404bi](https://github.com/h404bi)
 * [ConEmu](https://github.com/martinlindhe/base16-conemu) maintained by [martinlindhe](https://github.com/martinlindhe)
@@ -44,6 +46,7 @@ To add your own template, submit a pull request and add your repository to the l
 * [Konsole](https://github.com/cskeeters/base16-konsole) maintained by [cskeeters](https://github.com/cskeeters)
 * [LuaKit](https://github.com/twnaing/base16-luakit) maintained by [twnaing](https://github.com/twnaing)
 * [mako](https://github.com/Eluminae/base16-mako) maintained by [Eluminae](https://github.com/Eluminae)
+* [Micro](https://github.com/kytta/base16-micro) maintained by [kytta](https://github.com/kytta)
 * [MinTTY](https://github.com/geoffstokes/base16-mintty) maintained by [geoffstokes](https://github.com/geoffstokes)
 * [MonoDevelop](https://github.com/netpyoung/base16-monodevelop) maintained by [netpyoung](https://github.com/netpyoung)
 * [Neovim](https://github.com/bradcush/base16-nvim) maintained by [bradcushg](https://github.com/bradcush)
@@ -62,6 +65,7 @@ To add your own template, submit a pull request and add your repository to the l
 * [st](https://github.com/honza/base16-st) maintained by [honza](https://github.com/honza)
 * [StumpWM](https://github.com/tpine/base16-stumpwm) maintained by [tpine](https://github.com/tpine)
 * [Sway](https://github.com/rkubosz/base16-sway) maintained by [rkubosz](https://github.com/rkubosz)
+* [Swaylock](https://github.com/dark-beep-boop/base16-swaylock) maintained by [dark-beep-boop](https://github.com/dark-beep-boop)
 * [TTY](https://github.com/MArpogaus/base16-tty) maintained by [MArpogaus](https://github.com/MArpogaus)
 * [Termite](https://github.com/khamer/base16-termite) maintained by [khamer](https://github.com/khamer)
 * [Termux](https://github.com/kdrag0n/base16-termux) maintained by [kdrag0n](https://github.com/kdrag0n)

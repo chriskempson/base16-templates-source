@@ -3,6 +3,7 @@ alacritty: https://github.com/aarowill/base16-alacritty
 amfora: https://github.com/jo1gi/base16-amfora
 binary-ninja: https://github.com/evanrichter/base16-binary-ninja
 blink: https://github.com/niklaas/base16-blink.git
+bpytop: https://github.com/dark-beep-boop/base16-bpytop
 c_header: https://github.com/m1sports20/base16-c_header
 concfg: https://github.com/h404bi/base16-concfg
 conemu: https://github.com/martinlindhe/base16-conemu
@@ -22,6 +23,7 @@ godot: https://github.com/Calinou/base16-godot
 gtk-flatcolor: https://github.com/Misterio77/base16-gtk-flatcolor
 gtk2: https://github.com/dawikur/base16-gtk2
 halloy: https://github.com/base16-halloy
+gtksourceview: https://github.com/RobLoach/base16-gtksourceview
 helix: https://github.com/krgn/base16-helix
 hexchat: https://github.com/Diablo-D3/base16-hexchat
 highlight: https://github.com/bezhermoso/base16-highlight
@@ -42,6 +44,7 @@ luakit: https://github.com/twnaing/base16-luakit
 neovim: https://github.com/bradcush/base16-nvim
 mako: https://github.com/Eluminae/base16-mako
 mate-terminal: https://github.com/fmunch/base16-mate-terminal
+micro: https://github.com/kytta/base16-micro
 mintty: https://github.com/iamthad/base16-mintty
 monodevelop: https://github.com/netpyoung/base16-monodevelop
 nvim: https://github.com/wincent/base16-nvim
@@ -55,7 +58,7 @@ qownnotes: https://github.com/themix-project/base16-template-qOwnNotes
 qtcreator: https://github.com/ilpianista/base16-qtcreator
 qutebrowser: https://github.com/theova/base16-qutebrowser
 #radare2: https://github.com/jtalowell/base16-radare2
-rofi: https://gitlab.com/0xdec/base16-rofi
+rofi: https://gitlab.com/jordiorlando/base16-rofi
 scide: https://github.com/brunoro/base16-scide
 shell: https://github.com/chriskempson/base16-shell
 spotify: https://github.com/misterio77/base16-spotify
@@ -63,6 +66,7 @@ st: https://github.com/dgmulf/base16-st
 stumpwm: https://github.com/tpine/base16-stumpwm
 styles: https://github.com/samme/base16-styles
 sway: https://github.com/rkubosz/base16-sway
+swaylock: https://github.com/dark-beep-boop/base16-swaylock
 terminator: https://github.com/Schnouki/base16-terminator
 termite: https://github.com/khamer/base16-termite
 termux: https://github.com/kdrag0n/base16-termux
